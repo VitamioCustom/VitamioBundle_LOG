@@ -1,15 +1,23 @@
 ###Build Status :syringe:
 
+<hr>
+<b>17 to 20/04/16</b> :alarm_clock:
+<br>Project is slow development
+<br>All Compile Failed, tryn new configs
+<br>librtmp working as good, now we nedd to make openssl work.
+<br>Machine has ERROR
+<br>Building a new VMware machine Centos 7 x64
+<br>OpenSSL 1.0.2g dont generate obj folder into CPUABI obj/local/armeabi/<obj needed, dont generate>
+<br>FFmpeg Compiling problem(Android NDK), tryng to solve, to compile   <b>Now Here :arrow_left:</b>
 
+<hr>
 <b>16/04/16</b> :alarm_clock:
 <br>Machine updated with "Build-Essentials"
 <br>NEW Pre-BUILD Found
 <br>Trying to complile Pre-BUILD complete of FFmpeg + OpenSSL + librtmp (OUTDATED VERSIONS)
 <br>:white_check_mark: <u>`Build SUCCESS`</u>
 <br>Making Build BACKUP
-<br>Trying to make some changes to upgrade build to last version of FFmpeg   <b>Now Here :arrow_left:</b>
-
-
+<br>Trying to make some changes to upgrade build to last version of FFmpeg
 
 <hr>
 <b>15/04/16</b> :alarm_clock:
