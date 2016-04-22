@@ -8,7 +8,8 @@
 <br>Machine has ERROR
 <br>Building a new VMware machine Centos 7 x64
 <br>OpenSSL 1.0.2g dont generate obj folder into CPUABI obj/local/armeabi/<obj needed, dont generate>
-<br>FFmpeg Compiling problem(Android NDK), tryng to solve, to compile   <b>Now Here :arrow_left:</b>
+<br>FFmpeg Compiling problem(Android NDK), tryng to solve, to compile
+<br>Fixed NDK problem on compile FFmpeg   <b>Now Here :arrow_left:</b>
 
 <hr>
 <b>16/04/16</b> :alarm_clock:
