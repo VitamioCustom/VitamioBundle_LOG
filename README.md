@@ -7,7 +7,9 @@
 <b>27/04/16</b> :alarm_clock:
 <br>Making several changes
 <br>Slow fixing `FFmpeg 3.0` for Vitamio Android :camel:
-<br>Build have errors, but we are fixing it slowly :camel:   <b>Now Here :arrow_left:</b>
+<br>Build have errors, but we are fixing it slowly :camel:
+<br>Fixed `FFmpeg 3.0.1` Build to Vitamio :ok:
+<br>Trying to fix `OpenSSL 1.0.2g` for Vitamio :fire:   <b>Now Here :arrow_left:</b>
 
 <hr>
 <b>17 to 20/04/16</b> :alarm_clock:
