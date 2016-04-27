@@ -40,7 +40,7 @@
 <br>NEW BUILD Clean of `FFMPEG` + `openssl`
 <br>Trying to compile
 <br>Compilation sucess `FFMPEG(N-79430-g89ec4d4)` and `OpenSSL(Version 1.0.1e)`
-<br>Trying to compile with librtmp
+<br>Trying to compile with `librtmp`
 <br>:bangbang: Build FAILED - `FFMPEG(N-79430-g89ec4d4)`, `OpenSSL(Version 1.0.1e)` and OFFICIAL VITAMIO `librtmp`
 <br>Trying with others config
 <br>:bangbang: Build FAILED
