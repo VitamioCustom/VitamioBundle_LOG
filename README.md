@@ -9,7 +9,9 @@
 <br>Slow fixing `FFmpeg 3.0` for Vitamio Android :camel:
 <br>Build have errors, but we are fixing it slowly :camel:
 <br>Fixed `FFmpeg 3.0.1` Build to Vitamio :ok:
-<br>Trying to fix `OpenSSL 1.0.2g` for Vitamio :fire:   <b>Now Here :arrow_left:</b>
+<br>Trying to fix `OpenSSL 1.0.2g` for Vitamio :fire:
+<br>Fixed `OpenSSL 1.0.2g` `build.sh` for `arm` (StandAlone files, they need to be copied and organized in their respective directories, according to the standards of vitamio and `librtmp`) :ok:
+<br>Trying to make config for `mips`, `x86` and others CPU ABI's   - - - :construction: <b>Now Here :arrow_left:</b>
 
 <hr>
 <b>17 to 20/04/16</b> :alarm_clock:
