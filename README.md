@@ -1,8 +1,5 @@
 ###Build Status :syringe:
 
-
-
-
 <hr>
 <b>29/04/16</b> :alarm_clock:
 * Working on `librtmp`, for upgrade to version of `OpenSSL 1.0.2g` (**1%** - Scheduled Task Start 14h~15h, -3 GMT)
@@ -22,7 +19,7 @@
 * Fixed `FFmpeg 3.0.1` Build to Vitamio :ok:
 * Trying to fix `OpenSSL 1.0.2g` for Vitamio :fire:
 * Fixed `OpenSSL 1.0.2g` `build.sh` for `arm` (StandAlone files, they need to be copied and organized in their respective directories, according to the standards of vitamio and `librtmp`) :ok:
-<br>Trying to make config for `mips`, `x86` and others CPU ABI's
+* Trying to make config for `mips`, `x86` and others CPU ABI's
 
 <hr>
 <b>17 to 20/04/16</b> :alarm_clock:
