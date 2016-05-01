@@ -1,11 +1,19 @@
 ###Build Status :syringe:
 
+
+
+
+<hr>
+<b>01/05/16</b> :alarm_clock:
+* Completed overhaul of the build `librtmp`
+* Reframing build OpenSSL - - - :construction: <b>Now Here :arrow_left:</b>
+
 <hr>
 <b>29/04/16</b> :alarm_clock:
 * Working on `librtmp`, for upgrade to version of `OpenSSL 1.0.2g` (**1%** - Scheduled Task Start 14h~15h, -3 GMT)
 * Fixed librtmp build with `OpenSSL 1.0.2g` - Compiling with success (x86)
-* Finished `librtmp  test build (**100%** - `librtmp 2.4` and `OpenSSL 1.0.2g` :ok:)
-* Working on all build system, to automatically detect the CPU ABI and apply the version of the libraries, creation and standardization of directories and destination files. Many changes - - - :construction: <b>Now Here :arrow_left:</b>
+* Finished `librtmp`  test build (**100%** - `librtmp 2.4` and `OpenSSL 1.0.2g` :ok:)
+* Working on all build system, to automatically detect the CPU ABI and apply the version of the libraries, creation and standardization of directories and destination files. Many changes (_In progress_)
 
 <hr>
 <b>28/04/16</b> :alarm_clock:
