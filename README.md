@@ -1,12 +1,16 @@
 ###Build Status :syringe:
 
 
+<hr>
+<b>02/05/16</b> :alarm_clock:
+* Fixed build script for multiples ABI `x86 mips neon armv7 vfp armv6` of `OpenSSL`
+* Creatin one build script for each architecture of `OpenSSL` - - - :construction: <b>Now Here :arrow_left:</b>
 
 
 <hr>
 <b>01/05/16</b> :alarm_clock:
 * Completed overhaul of the build `librtmp`
-* Reframing build OpenSSL - - - :construction: <b>Now Here :arrow_left:</b>
+* Reframing build `OpenSSL`
 
 <hr>
 <b>29/04/16</b> :alarm_clock:
