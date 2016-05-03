@@ -4,8 +4,9 @@
 <hr>
 <b>02/05/16</b> :alarm_clock:
 * Fixed build script for multiples ABI `x86 mips neon armv7 vfp armv6` of `OpenSSL`
-* Creatin one build script for each architecture of `OpenSSL` - - - :construction: <b>Now Here :arrow_left:</b>
-
+* Creatin one build script for each architecture of `OpenSSL`
+* Completed ABI's for `OpenSSL`
+* Compiling `OpenSSL 1.0.2g`  - - - :construction: <b>Now Here :arrow_left:</b>
 
 <hr>
 <b>01/05/16</b> :alarm_clock:
