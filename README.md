@@ -1,10 +1,17 @@
 ###Build Status :syringe:
 
 <hr>
+<b>05/05/16</b> :alarm_clock:
+* Fixed Build Erros in command line for `x86`
+* Compiling **FFmpeg with OpenSSL 1.0.2g** :white_check_mark: <u>`Build SUCCESS`</u>
+* Compiling _PRE-RELEASE_ **FFmpeg with OpenSSL 1.0.2g**  - - - :construction: <b>Now Here :arrow_left:</b>
+* 
+<hr>
 <b>04/05/16</b> :alarm_clock:
 * Fixed many bugs in command-line of `OpenSSL 1.0.2g`
 * **OpenSSL 1.0.2g** All arch :white_check_mark: <u>`Build SUCCESS`</u>
-* Compiling **FFmpeg with OpenSSL 1.0.2g**  - - - :construction: <b>Now Here :arrow_left:</b>
+* Compiling **FFmpeg with OpenSSL 1.0.2g**
+
 
 
 <hr>
