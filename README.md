@@ -11,7 +11,7 @@
 * Compiling **FFmpeg with OpenSSL 1.0.2g** :white_check_mark: <u>`Build SUCCESS`</u>
 * Compiling _PRE-RELEASE_ **FFmpeg with OpenSSL 1.0.2g**
 * Compiling for `arm` => :bangbang: Build FAILED https://github.com/yixia/VitamioBundle/issues/367#issuecomment-217333937
-* Tryint to fix build problems for `arm`
+* Trying to fix build problems for `arm`
 
 <hr>
 <b>04/05/16</b> :alarm_clock:
