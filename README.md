@@ -1,12 +1,17 @@
 ###Build Status :syringe:
 
 <hr>
+<b>08/05/16</b> :alarm_clock:
+* Upload Complete - https://github.com/VitamioCustom/VitamioUpdates
+* **PRE-RELEASE** :ok:   - - - :construction: <b>Now Here :arrow_left:</b>
+
+<hr>
 <b>07/05/16</b> :alarm_clock:
 * Fixed several problems on ffmpeg for `arm`
 * Compiling **FFmpeg with OpenSSL 1.0.2g** for All arch.
 * :white_check_mark: <u>`Build SUCCESS`</u>
 * Build script not compiling `x86` and `mips` automaticaly - Manual build :ok:
-* Uploading **PRE-RELEASE** `FFmpeg 3.0.1` with `OpenSSL 1.0.2g`   - - - :construction: <b>Now Here :arrow_left:</b>
+* Uploading **PRE-RELEASE** `FFmpeg 3.0.1` with `OpenSSL 1.0.2g`
 
 <hr>
 <b>05/05/16</b> :alarm_clock:
