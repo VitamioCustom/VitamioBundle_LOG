@@ -1,12 +1,17 @@
 ###Build Status :syringe:
 
 <hr>
+<b>07/05/16</b> :alarm_clock:
+* Fixed several problems on ffmpeg for `arm`
+* Compiling **FFmpeg with OpenSSL 1.0.2g** for All arch.  - - - :construction: <b>Now Here :arrow_left:</b>
+
+<hr>
 <b>05/05/16</b> :alarm_clock:
 * Fixed Build Erros in command line for `x86`
 * Compiling **FFmpeg with OpenSSL 1.0.2g** :white_check_mark: <u>`Build SUCCESS`</u>
 * Compiling _PRE-RELEASE_ **FFmpeg with OpenSSL 1.0.2g**
 * Compiling for `arm` => :bangbang: Build FAILED https://github.com/yixia/VitamioBundle/issues/367#issuecomment-217333937
-* Tryint to fix build problems for `arm`  - - - :construction: <b>Now Here :arrow_left:</b>
+* Tryint to fix build problems for `arm`
 
 <hr>
 <b>04/05/16</b> :alarm_clock:
